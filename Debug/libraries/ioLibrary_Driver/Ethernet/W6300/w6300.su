@@ -1,0 +1,10 @@
+../libraries/ioLibrary_Driver/Ethernet/W6300/w6300.c:57:6:WIZCHIP_WRITE	32	static
+../libraries/ioLibrary_Driver/Ethernet/W6300/w6300.c:83:10:WIZCHIP_READ	32	static
+../libraries/ioLibrary_Driver/Ethernet/W6300/w6300.c:111:6:WIZCHIP_WRITE_BUF	40	static
+../libraries/ioLibrary_Driver/Ethernet/W6300/w6300.c:137:6:WIZCHIP_READ_BUF	40	static
+../libraries/ioLibrary_Driver/Ethernet/W6300/w6300.c:164:10:getSn_TX_FSR	32	static
+../libraries/ioLibrary_Driver/Ethernet/W6300/w6300.c:176:10:getSn_RX_RSR	32	static
+../libraries/ioLibrary_Driver/Ethernet/W6300/w6300.c:188:6:wiz_send_data	32	static
+../libraries/ioLibrary_Driver/Ethernet/W6300/w6300.c:232:6:wiz_recv_data	32	static
+../libraries/ioLibrary_Driver/Ethernet/W6300/w6300.c:244:6:wiz_recv_ignore	24	static
+../libraries/ioLibrary_Driver/Ethernet/W6300/w6300.c:251:6:wiz_delay_ms	32	static

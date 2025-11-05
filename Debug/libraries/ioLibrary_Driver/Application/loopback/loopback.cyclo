@@ -1,0 +1,6 @@
+../libraries/ioLibrary_Driver/Application/loopback/loopback.c:296:8:set_loopback_mode_W6x00	1
+../libraries/ioLibrary_Driver/Application/loopback/loopback.c:301:8:check_loopback_mode_W6x00	4
+../libraries/ioLibrary_Driver/Application/loopback/loopback.c:316:9:loopback_tcps	25
+../libraries/ioLibrary_Driver/Application/loopback/loopback.c:593:9:loopback_tcpc	25
+../libraries/ioLibrary_Driver/Application/loopback/loopback.c:872:9:loopback_udps	13
+../libraries/ioLibrary_Driver/Application/loopback/loopback.c:993:9:loopback_udpc	14
